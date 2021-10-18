@@ -13,6 +13,8 @@ The commands **/help intro**, **/help keys**, **/help id**, **/help shortcuts**,
 
 The command **/set feedback verbose** permits to have more details in the feedback.
 
+The command **/list** gives the id of each operation.
+
 Oracle tuto : https://docs.oracle.com/en/java/javase/17/jshell/introduction-jshell.html#GUID-630F27C8-1195-4989-9F6B-2C51D46F52C8
 
 ## First step with jshell
