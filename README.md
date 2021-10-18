@@ -9,7 +9,9 @@ At the end of the installation, i was able to use jshell 17 :![Verif_install](ht
 
 ## Useful command and link
 
-The commandes **/help intro**, **/help keys**, **/help id**, **/help shortcuts**, **/help context**, **/help rerun** are useful to begin with jshell.
+The commands **/help intro**, **/help keys**, **/help id**, **/help shortcuts**, **/help context**, **/help rerun** are useful to begin with jshell.
+The command **/set feedback verbose** permit to have more details in the feedback.
+
 Oracle tuto : https://docs.oracle.com/en/java/javase/17/jshell/introduction-jshell.html#GUID-630F27C8-1195-4989-9F6B-2C51D46F52C8
 
 ## First step with jshell
