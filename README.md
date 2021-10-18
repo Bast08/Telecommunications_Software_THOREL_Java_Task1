@@ -1,0 +1,1 @@
+# Telecommunications_Software_THOREL_Java_Task1-
