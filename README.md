@@ -18,3 +18,7 @@ Oracle tuto : https://docs.oracle.com/en/java/javase/17/jshell/introduction-jshe
 
 ### Creation of a method
 ![first method](https://user-images.githubusercontent.com/65960788/137714825-c703ace7-264b-4426-b533-95ea5f66ab5a.png)
+
+### Modification of a method
+
+![modified method](https://user-images.githubusercontent.com/65960788/137715219-49c3e7d7-e79f-40d6-9df4-180c81fc624f.png)
